@@ -1,6 +1,6 @@
 # Proyecto con Astro sencillo 
 
-## Blog Sencillo para creado con astro para ver sus funcionalidades 
+## Blog Sencillo creado con astro (Primeros Pasos)
 
 ![image](https://github.com/user-attachments/assets/1b1a29b0-af3c-4611-a102-705df8452c88)
 
